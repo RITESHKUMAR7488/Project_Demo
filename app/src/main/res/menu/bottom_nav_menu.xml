@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/appointmentFragment"
+        android:icon="@drawable/ic_appointments"
+        android:title="Appt"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/fab"
+        android:title=""
+        android:enabled="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/customersFragment"
+        android:icon="@drawable/ic_customers"
+        android:title="Customers"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"
+        app:showAsAction="ifRoom" />
+</menu>
