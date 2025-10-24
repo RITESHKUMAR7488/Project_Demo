@@ -1,0 +1,69 @@
+{
+  "userName": "Kishan Sharma",
+  "performanceOverview": {
+    "todayBooking": {
+      "value": "12",
+      "increase": "+12 Increase"
+    },
+    "totalEarnings": {
+      "value": "₹32K",
+      "increase": "+20% Increase"
+    },
+    "totalCustomers": {
+      "value": "156",
+      "increase": "+45 Increase"
+    },
+    "totalAppointments": {
+      "value": "156",
+      "increase": "+65 Increase"
+    }
+  },
+  "earnings": {
+    "total": "₹32,000",
+    "chartData": [
+      { "x": 1.0, "y": 10.0 },
+      { "x": 2.0, "y": 12.0 },
+      { "x": 3.0, "y": 8.0 },
+      { "x": 4.0, "y": 15.0 },
+      { "x": 5.0, "y": 13.0 },
+      { "x": 6.0, "y": 18.0 },
+      { "x": 7.0, "y": 20.0 },
+      { "x": 8.0, "y": 17.0 }
+    ]
+  },
+  "todaySchedule": {
+    "scheduledCount": 3,
+    "appointments": [
+      {
+        "initials": "RK",
+        "name": "Rajesh Kumar",
+        "service": "Relationship Counseling",
+        "status": "Confirmed",
+        "phone": "*709837246",
+        "date": "Today",
+        "time": "10:00am",
+        "price": "₹500"
+      },
+      {
+        "initials": "PK",
+        "name": "Priya Kaur",
+        "service": "Career Counseling",
+        "status": "Confirmed",
+        "phone": "*801234567",
+        "date": "Today",
+        "time": "11:30am",
+        "price": "₹500"
+      },
+      {
+        "initials": "SV",
+        "name": "Sameer Verma",
+        "service": "Tarot Reading",
+        "status": "Confirmed",
+        "phone": "*987654321",
+        "date": "Today",
+        "time": "02:00pm",
+        "price": "₹500"
+      }
+    ]
+  }
+}
