@@ -1,0 +1,15 @@
+{
+  "profile": {
+    "initials": "KS",
+    "name": "Kishan Sharma",
+    "phone": "8939010883"
+  },
+  "menuItems": [
+    { "icon": "about", "title": "About" },
+    { "icon": "gallery", "title": "Gallery" },
+    { "icon": "quick_set", "title": "Quick Sales" },
+    { "icon": "languages", "title": "Languages" },
+    { "icon": "specification", "title": "Specification" },
+    { "icon": "sign_out", "title": "Sign Out" }
+  ]
+}

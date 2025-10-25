@@ -13,15 +13,22 @@
 
     <fragment
         android:id="@+id/appointmentFragment"
-        android:name="com.example.projectdemo.ui.placeholder.PlaceholderFragment"
-        android:label="Appointments" />
+        android:name="com.example.projectdemo.ui.appointment.AppointmentFragment"
+        android:label="fragment_appointment"
+        tools:layout="@layout/fragment_appointment" />
+
+
+
     <fragment
         android:id="@+id/customersFragment"
-        android:name="com.example.projectdemo.ui.placeholder.PlaceholderFragment"
-        android:label="Customers" />
+        android:name="com.example.projectdemo.ui.customer.CustomerFragment"
+        android:label="fragment_customer"
+        tools:layout="@layout/fragment_customer" />
+
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.example.projectdemo.ui.placeholder.PlaceholderFragment"
-        android:label="Profile" />
+        android:name="com.example.projectdemo.ui.profile.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
 
 </navigation>

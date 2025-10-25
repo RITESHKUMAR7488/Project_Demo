@@ -1,0 +1,65 @@
+{
+  "stats": {
+    "upcoming": 12,
+    "pending": 3,
+    "completed": 54,
+    "cancel": 2
+  },
+  "quickActions": [
+    {
+      "id": "1",
+      "initials": "RK",
+      "name": "Rajesh Kumar",
+      "service": "Relationship Counseling",
+      "status": "Upcoming",
+      "phone": "*709837246",
+      "date": "Today",
+      "time": "10:00am",
+      "price": "₹500"
+    },
+    {
+      "id": "2",
+      "initials": "SV",
+      "name": "Sameer Verma",
+      "service": "Tarot Reading",
+      "status": "Upcoming",
+      "phone": "*987654321",
+      "date": "Today",
+      "time": "02:00pm",
+      "price": "₹500"
+    },
+    {
+      "id": "3",
+      "initials": "PK",
+      "name": "Priya Kaur",
+      "service": "Career Counseling",
+      "status": "Pending",
+      "phone": "*801234567",
+      "date": "Today",
+      "time": "11:30am",
+      "price": "₹500"
+    },
+    {
+      "id": "4",
+      "initials": "AM",
+      "name": "Amit Mishra",
+      "service": "Vedic Astrology",
+      "status": "Completed",
+      "phone": "*123456789",
+      "date": "Yesterday",
+      "time": "04:00pm",
+      "price": "₹1500"
+    },
+    {
+      "id": "5",
+      "initials": "NJ",
+      "name": "Neha Jain",
+      "service": "Relationship Counseling",
+      "status": "Completed",
+      "phone": "*987650011",
+      "date": "Yesterday",
+      "time": "02:30pm",
+      "price": "₹500"
+    }
+  ]
+}

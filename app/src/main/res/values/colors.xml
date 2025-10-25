@@ -72,6 +72,16 @@
         <color name="md_theme_dark_inverseOnSurface">#313033</color>
         <color name="md_theme_dark_inversePrimary">#6750A4</color>
         <color name="md_theme_dark_surfaceTint">#D0BCFF</color>
+    <color name="status_upcoming">#0061A4</color>
+    <color name="status_upcoming_container">#D1E4FF</color>
+    <color name="status_completed">#1F9254</color>
+    <color name="status_completed_container">#DCFCE7</color>
+    <color name="status_pending">#B95000</color>
+    <color name="status_pending_container">#FFEFE0</color>
+    <color name="status_cancel">#B3261E</color>
+    <color name="status_cancel_container">#F9DEDC</color>
+    <color name="warning_orange">#B95000</color>
+
 
 
 
