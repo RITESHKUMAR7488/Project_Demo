@@ -33,9 +33,6 @@ class MainActivity : AppCompatActivity() {
         binding.bottomNavigationView.setupWithNavController(navController)
 
         // Handle clicks for items that are not in the nav graph (like the FAB)
-        binding.fabAdd.setOnClickListener {
-            // Handle FAB click, e.g., show a dialog or navigate to a create screen
-            Toast.makeText(this, "Add Clicked!", Toast.LENGTH_SHORT).show()
-        }
+
     }
 }

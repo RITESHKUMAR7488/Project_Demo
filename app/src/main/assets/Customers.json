@@ -1,0 +1,86 @@
+{
+  "customerGroups": [
+    {
+      "groupTitle": "Today",
+      "customers": [
+        {
+          "id": "1",
+          "initials": "KS",
+          "name": "Kishan Sharma",
+          "phone": "+98 9999999999",
+          "price": "₹0.00",
+          "tags": [
+            { "icon": "webinar", "label": "Webinar: 0" },
+            { "icon": "appt", "label": "Appts: 0" },
+            { "icon": "ebook", "label": "E-book: 0" }
+          ]
+        },
+        {
+          "id": "2",
+          "initials": "RK",
+          "name": "Rajesh Kumar",
+          "phone": "+98 9876543210",
+          "price": "₹0.00",
+          "tags": [
+            { "icon": "webinar", "label": "Webinar: 0" },
+            { "icon": "appt", "label": "Appts: 0" },
+            { "icon": "ebook", "label": "E-book: 0" }
+          ]
+        },
+        {
+          "id": "3",
+          "initials": "SV",
+          "name": "Sameer Verma",
+          "phone": "+98 9000011111",
+          "price": "₹0.00",
+          "tags": [
+            { "icon": "webinar", "label": "Webinar: 0" },
+            { "icon": "appt", "label": "Appts: 0" },
+            { "icon": "ebook", "label": "E-book: 0" }
+          ]
+        }
+      ]
+    },
+    {
+      "groupTitle": "Yesterday",
+      "customers": [
+        {
+          "id": "4",
+          "initials": "KS",
+          "name": "Kishan Sharma",
+          "phone": "+98 9999999999",
+          "price": "₹0.00",
+          "tags": [
+            { "icon": "webinar", "label": "Webinar: 0" },
+            { "icon": "appt", "label": "Appts: 0" },
+            { "icon": "ebook", "label": "E-book: 0" }
+          ]
+        },
+        {
+          "id": "5",
+          "initials": "PK",
+          "name": "Priya Kaur",
+          "phone": "+98 9888877777",
+          "price": "₹0.00",
+          "tags": [
+            { "icon": "webinar", "label": "Webinar: 0" },
+            { "icon": "appt", "label": "Appts: 0" },
+            { "icon": "ebook", "label": "E-book: 0" }
+          ]
+        },
+        {
+          "id": "6",
+          "initials": "AM",
+          "name": "Amit Mishra",
+          "phone": "+98 9111122222",
+          "price": "₹0.00",
+          "tags": [
+            { "icon": "webinar", "label": "Webinar: 0" },
+            { "icon": "appt", "label": "Appts: 0" },
+            { "icon": "ebook", "label": "E-book: 0" }
+          ]
+        }
+      ]
+    }
+  ]
+}
